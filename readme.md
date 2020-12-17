@@ -20,8 +20,4 @@ Step 1,2,3 is already done. The firmware included with the project is 4.1.
 6. Run FirmwareUpgrade.ino to upgrade.
 
 
-# THE EEPROM WILL BE WIPE BY NEW FIRMWARE !!
-# IT WILL STUCK IN DOWNLOAD MODE, IF UPLOAD FAILED !! 
-# I WON'T RESPONSIBLE FOR ANY BRICK !!
-
 Godspeed 
