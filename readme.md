@@ -2,7 +2,7 @@
 
 This Project **Modify** From PN5180 Secure Firmware Update Library (SW4055). 
 
-Prerequisites: set up ESP32 to work with Arduino IDE (https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/)
+Prerequisites: set up ESP32 to work with Arduino IDE
 
 **Tested ON**
 + ESP32-DevKitC v4 board (ESP32 WROOM 32D Module)
