@@ -5,6 +5,7 @@
 */
 
 #include "Firmware.h"
+#include "PN5180_Firmware.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <iostream>
